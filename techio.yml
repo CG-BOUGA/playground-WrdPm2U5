@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Bash template
 
 plan:
-  - title: Python Snippet
+  - title: Bash Snippet
     statement: statement.md
